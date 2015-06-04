@@ -1,0 +1,27 @@
+{
+  "name": "myEmber.js-tutorial",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bclin2/myEmber.js-tutorial",
+  "authors": [
+    "Baffledtree <brian.c.lin2@gmail.com>"
+  ],
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.12.1",
+    "ember-data": "~1.0.0-beta.8"
+  },
+  "resolutions": {
+    "ember": ">= 1.8.1 < 2.0.0"
+  }
+}
